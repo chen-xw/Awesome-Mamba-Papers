@@ -254,6 +254,8 @@ Last update on
 
 \(Arxiv 24.07.31->ACM MM24) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
 
+(Arxiv 25.02.21) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba [Paper](https://arxiv.org/abs/2502.15130) [Code](https://github.com/chen-xw/TransMamba-main)
+
 ## Spatiotemporal
 
 (**CVPR24 Precognition Workshop**) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
