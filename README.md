@@ -232,6 +232,8 @@ Last update on
 
 \(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
+(Arxiv 25.02.21) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba [Paper](https://arxiv.org/abs/2502.15130) [Code](https://github.com/chen-xw/TransMamba-main)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -254,7 +256,6 @@ Last update on
 
 \(Arxiv 24.07.31->ACM MM24) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
 
-(Arxiv 25.02.21) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba [Paper](https://arxiv.org/abs/2502.15130) [Code](https://github.com/chen-xw/TransMamba-main)
 
 ## Spatiotemporal
 
